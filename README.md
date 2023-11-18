@@ -21,7 +21,7 @@ This project aims to provide a comprehensive analysis of venture capital funding
 
 
 
-![Screenshot 2023-11-18 174442](https://github.com/M-Hitesh/Startup_Valuation_Analysis/assets/71482187/e144c1fe-493c-423c-bd38-2cdf651938d5)
+
 ![Screenshot 2023-11-18 174433](https://github.com/M-Hitesh/Startup_Valuation_Analysis/assets/71482187/530fa066-e3f4-4e41-b531-0b6746fc8703)
 ![Screenshot 2023-11-18 174423](https://github.com/M-Hitesh/Startup_Valuation_Analysis/assets/71482187/6ce27c7f-4eed-48c1-8c15-64c19db2f84c)
 ![Screenshot 2023-11-18 174408](https://github.com/M-Hitesh/Startup_Valuation_Analysis/assets/71482187/1124df89-ee9b-434d-8015-1e537dcd22df)
