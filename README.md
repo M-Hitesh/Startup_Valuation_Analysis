@@ -49,10 +49,9 @@ Python and data analysis libraries  Numpy,Matplotlib and Pandas are utilized for
 
 ![Screenshot 2023-11-18 174433](https://github.com/M-Hitesh/Startup_Valuation_Analysis/assets/71482187/530fa066-e3f4-4e41-b531-0b6746fc8703)
 ![Screenshot 2023-11-18 174423](https://github.com/M-Hitesh/Startup_Valuation_Analysis/assets/71482187/6ce27c7f-4eed-48c1-8c15-64c19db2f84c)
-![Screenshot 2023-11-18 174408](https://github.com/M-Hitesh/Startup_Valuation_Analysis/assets/71482187/1124df89-ee9b-434d-8015-1e537dcd22df)
+
 ![Screenshot 2023-11-18 174607](https://github.com/M-Hitesh/Startup_Valuation_Analysis/assets/71482187/7d2eea8b-4ac4-401e-8580-96132f374f2f)
-![Screenshot 2023-11-18 174553](https://github.com/M-Hitesh/Startup_Valuation_Analysis/assets/71482187/6558742e-befe-4689-9867-1d9c7f1d7c66)
-![Screenshot 2023-11-18 174544](https://github.com/M-Hitesh/Startup_Valuation_Analysis/assets/71482187/b098bf36-caf5-4392-938e-823f4dd3db2e)
+
 ![Screenshot 2023-11-18 174521](https://github.com/M-Hitesh/Startup_Valuation_Analysis/assets/71482187/7bfeba9a-9ba8-4264-a298-59e9903c514b)
 ![Screenshot 2023-11-18 174511](https://github.com/M-Hitesh/Startup_Valuation_Analysis/assets/71482187/cb39f2ea-3f08-4dbe-8d50-fd81c03cf22a)
 ![Screenshot 2023-11-18 174504](https://github.com/M-Hitesh/Startup_Valuation_Analysis/assets/71482187/0f4e5a15-55a6-4661-9490-2ad05fc58b70)
